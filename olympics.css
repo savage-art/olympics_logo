@@ -1,0 +1,101 @@
+.bluecirclefirsthalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(53, 170, 216);
+    width: 250px;
+    border-radius: 100%;  
+    border-bottom: 10px; 
+}
+.bluecirclesecondhalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(53, 170, 216);
+    width: 250px;
+    border-radius: 100%;
+    right: 19px;
+    bottom: 20px;
+    z-index: 1;
+}
+.theblackcirclefisthalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid black;
+    width: 250px;
+    border-radius: 100%;
+    left: 25%;
+    bottom: 270px;
+    
+}
+.theblackcirclesecondhalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid black;
+    width: 250px;
+    border-radius: 100%;
+    bottom: 20px;
+    border-left: 1px;
+    z-index: 3;
+    
+}
+.redcirclefirsthalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(252, 59, 59);
+    width: 250px;
+    border-radius: 100%;
+    left: 49%;
+    bottom: 560px;
+}
+.redcirclesecondthalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(252, 59, 59);
+    width: 250px;
+    border-radius: 100%;
+    bottom: 20px;
+    z-index: 10;
+    border-left: 1px;
+
+}
+.yellowfirsthalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(243, 188, 6);
+    width: 250px;
+    border-radius: 100%;
+    left: 13%;
+    bottom: 715px;
+    
+}
+.yellowsecondthalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(243, 188, 6);
+    width: 250px;
+    border-radius: 100%;
+    right: 20px;
+    border-top: 1px;
+    z-index: 2;
+
+    
+}
+.greenfirsthalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(3, 156, 41);
+    width: 250px;
+    border-radius: 100%;
+    left: 38%;
+    bottom: 1008px;     
+}
+.greensecondhalf{
+    position: relative;
+    height: 250px;
+    border: 20px solid rgb(3, 156, 41);
+    width: 250px;
+    right: 20px;
+    border-radius: 100%;
+    z-index: 4;
+    border-top: 1px;
+    
+}
